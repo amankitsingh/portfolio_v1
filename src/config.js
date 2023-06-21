@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Dev.to',
-      url: 'https://codepen.io/ankitsingh',
+      url: 'https://dev.to/ankitsingh',
     },
     {
       name: 'Medium',
