@@ -18,18 +18,6 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/ankitsingh99',
     },
-    {
-      name: 'Dev.to',
-      url: 'https://dev.to/ankitsingh',
-    },
-    {
-      name: 'Medium',
-      url: 'https://medium.com/@ankitsingh99',
-    },
-    {
-      name: 'Stackoverflow',
-      url: 'https://stackoverflow.com/users/14213383',
-    },
   ],
 
   navLinks: [
