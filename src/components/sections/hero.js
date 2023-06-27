@@ -74,9 +74,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.theankitsingh.in"
+      href="https://cal.com/ankitsingh/30min"
       target="_blank"
-      rel="noreferrer noopener">
+      rel="noreferrer noopener"
+    >
       Get in Touch
     </a>
   );
