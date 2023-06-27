@@ -1,6 +1,6 @@
 ---
 date: '2020-04-19'
-title: 'Yolo v3 Care Detection'
+title: 'Yolo v3 Car Detection'
 github: 'https://github.com/amankitsingh/AI'
 tech:
   - JupterNotebook
