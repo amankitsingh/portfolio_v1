@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import { Icon } from '@components/icons';
@@ -67,29 +67,29 @@ const StyledCredit = styled.div`
   }
 `;
 
-const Footer = () => 
-// const [githubInfo, setGitHubInfo] = useState({
-//   stars: null,
-//   forks: null,
-// });
+const Footer = () => {
+  const [githubInfo, setGitHubInfo] = useState({
+    stars: null,
+    forks: null,
+  });
 
-// useEffect(() => {
-//   if (process.env.NODE_ENV !== 'production') {
-//     return;
-//   }
-//   fetch('https://api.github.com/repos/amankitsingh/portfolio_v1')
-//     .then(response => response.json())
-//     .then(json => {
-//       const { stargazers_count, forks_count } = json;
-//       setGitHubInfo({
-//         stars: stargazers_count,
-//         forks: forks_count,
-//       });
-//     })
-//     .catch(e => console.error(e));
-// }, []);
+  useEffect(() => {
+    if (process.env.NODE_ENV !== 'production') {
+      return;
+    }
+    fetch('https://api.github.com/repos/amankitsingh/portfolio_v1')
+      .then(response => response.json())
+      .then(json => {
+        const { stargazers_count, forks_count } = json;
+        setGitHubInfo({
+          stars: stargazers_count,
+          forks: forks_count,
+        });
+      })
+      .catch(e => console.error(e));
+  }, []);
 
-  (
+  return (
     <StyledFooter>
       <StyledSocialLinks>
         <ul>
@@ -105,9 +105,9 @@ const Footer = () =>
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        {/* <a href="https://brittanychiang.com/"> */}
-        <div>Thanks Brittany Chiang</div>
-        {/* {githubInfo.stars && githubInfo.forks && (
+        <div>Thanks Brittany</div>
+
+        {githubInfo.stars && githubInfo.forks && (
           <div className="github-stats">
             <span>
               <Icon name="Star" />
@@ -118,12 +118,11 @@ const Footer = () =>
               <span>{githubInfo.forks.toLocaleString()}</span>
             </span>
           </div>
-        )} */}
-        {/* </a> */}
+        )}
       </StyledCredit>
     </StyledFooter>
-  )
-;
+  );
+};
 
 Footer.propTypes = {
   githubInfo: PropTypes.object,
