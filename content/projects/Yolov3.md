@@ -8,4 +8,4 @@ tech:
 showInProjects: true
 ---
 
-AI project to detect car in the picture usign Yolo v3 Alogorithm.
+AI project to detect car in the picture using Yolo v3 Alogorithm.
