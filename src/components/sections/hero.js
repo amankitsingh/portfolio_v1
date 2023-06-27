@@ -67,7 +67,7 @@ const Hero = () => {
       <p>
         I'm a developer from India building cool web pages, IOT applications and learning iOS app
         development. With more than 3+ years in web developement and application developement.
-        Currently, I'm focused on building a new startup.
+        Currently, I'm focused on chasing innovation.
       </p>
     </>
   );
