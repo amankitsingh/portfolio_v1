@@ -1,7 +1,6 @@
 ---
 date: '2020-05-18'
 title: 'Drum Machine'
-cover: './demo.png'
 github: 'https://github.com/amankitsingh/Drum_Machine'
 external: 'https://jbs4w.csb.app/'
 tech:
