@@ -159,7 +159,7 @@ const About = () => {
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://lotuspay.com/">an fintech startup</a>, A one man army show. I am the
-              core developer in this startup and gives the users the best in class experience. From
+              core developer in this startup and give the users the best in class experience. From
               building world class features to code optimization, from testing to production. I take
               care of everything.
               <br />
