@@ -131,15 +131,13 @@ const About = () => {
     'JavaScript',
     'Flask',
     'Node.js',
-    'React',
     'MySQL',
     'NoSQL',
     'Redis',
     'Shell Scripting',
     'AWS',
-    'Gatsby',
     'Docker',
-    'Bounty Hunting',
+    'Bug Bounty Hunting',
   ];
 
   return (
@@ -160,10 +158,10 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://lotuspay.com/">an fintech startup</a>, A one man army show, Yes you
-              heard it right. I am the only developer this startup has and give the users the best
-              in class experience. From optimizing the code to building new features, from testing
-              to production. I take care of everything.
+              <a href="https://lotuspay.com/">an fintech startup</a>, A one man army show. I am the
+              core developer in this startup and gives the users the best in class experience. From
+              building world class features to code optimization, from testing to production. I take
+              care of everything.
               <br />
               <strong>You imagine it, I can build it.</strong>
             </p>
