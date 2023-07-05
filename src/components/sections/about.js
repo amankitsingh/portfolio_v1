@@ -130,7 +130,6 @@ const About = () => {
     'Ruby on Rails',
     'JavaScript',
     'Flask',
-    'Node.js',
     'MySQL',
     'NoSQL',
     'Redis',
