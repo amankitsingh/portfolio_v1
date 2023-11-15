@@ -126,16 +126,19 @@ const About = () => {
   }, []);
 
   const skills = [
-    'Python',
-    'Ruby on Rails',
-    'React',
-    'JavaScript',
-    'Flask',
-    'MySQL & Redis',
-    'Shell Scripting',
     'AWS',
+    'JavaScript',
+    'React',
+    'Node.js',
+    'Python with Flask',
+    'Ruby on Rails',
+    'MySQL',
+    'Redis',
+    'Shell Scripting',
     'Docker',
     'Socket programming',
+    'Shell scripting',
+    'Sidekiq',
   ];
 
   return (
