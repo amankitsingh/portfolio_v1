@@ -149,10 +149,10 @@ const About = () => {
             <p>
               Hello! My name is Ankit Singh and computers are my playground. I was introduced to the
               computer back in 2007 when I first played NFS Most Wanted, what a brilliant piece of
-              ART!!!. My interest in computers took pace in 2012 when I decided to hack my school
-              buddy's Facebook account. It was like tasting the blood of computers, and there was no
-              looking back after that. I learned, relearned, and measured a long long way
-              throughout.
+              ART!!!. My interest in computers took pace in 2012 when I decided to learn hacking and
+              was able to crack Facebook accounts. It was like tasting the blood of computers, and
+              there was no looking back after that. I learned, relearned, and measured a long long
+              way throughout.
             </p>
 
             <p>
