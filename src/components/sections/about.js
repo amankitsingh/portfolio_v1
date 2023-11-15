@@ -128,15 +128,14 @@ const About = () => {
   const skills = [
     'Python',
     'Ruby on Rails',
+    'React',
     'JavaScript',
     'Flask',
-    'MySQL',
-    'NoSQL',
-    'Redis',
+    'MySQL & Redis',
     'Shell Scripting',
     'AWS',
     'Docker',
-    'Bug Bounty Hunting',
+    'Socket programming',
   ];
 
   return (
