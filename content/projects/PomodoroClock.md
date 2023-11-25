@@ -1,7 +1,6 @@
 ---
 date: '4'
 title: 'Pomodoro Clock'
-cover: './demo.png'
 cta: 'https://oxjoy.csb.app/'
 tech:
   - React
