@@ -11,4 +11,4 @@ tech:
   - SqlAlchemy
 ---
 
-A simple Google Keep clone built with frontend HTML & CSS & javascript in frontend and Python, Flask as the backend with SqlAlchemy and firebase at the backend.
+Google Keep clone built with frontend HTML & CSS & javascript in frontend and Python, Flask as the backend with SqlAlchemy and firebase at the backend.
