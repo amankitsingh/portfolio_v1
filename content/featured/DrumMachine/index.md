@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Drum Machine'
 cover: './demo.png'
 github: 'https://github.com/amankitsingh/Drum_Machine'

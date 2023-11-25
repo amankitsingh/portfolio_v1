@@ -7,7 +7,7 @@ tech:
   - React
   - CSS
   - VS Code
-showInProjects: true
+showInProjects: false
 ---
 
 The React-based drum machine is a compact musical tool featuring 9 keys that serve as triggers for different drum sounds. Leveraging the power of React.
