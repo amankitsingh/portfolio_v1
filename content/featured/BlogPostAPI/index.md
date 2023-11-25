@@ -7,7 +7,7 @@ tech:
   - Ruby on Rails
   - Docker
   - Puma
-	- PostgreSql
+  - PostgreSql
 ---
 
 The repository aims to showcase implementing an API-centric blog system using Ruby on Rails, providing a foundation for building and managing blog content programmatically. Made on Ruby on Rails with grape API gem.
