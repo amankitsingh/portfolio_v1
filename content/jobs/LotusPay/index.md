@@ -1,6 +1,6 @@
 ---
 date: '2020-02-01'
-title: 'Senior Software Engineer'
+title: 'Lead Engineer'
 company: 'LotusPay'
 location: 'Remote'
 range: 'Feb 2020 - present'
