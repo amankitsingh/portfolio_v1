@@ -1,7 +1,7 @@
 ---
 date: '2020-02-01'
 title: 'Lead Engineer'
-company: 'LotusPay'
+company: 'LotusPay(Acquired by Juspay)'
 location: 'Remote'
 range: 'Feb 2020 - present'
 url: 'https://www.lotuspay.com/'
