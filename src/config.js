@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Medium',
-      url: 'https://medium.com/@ankitsingh99',
+      url: 'https://medium.com/@theankitsingh',
     },
   ],
 
