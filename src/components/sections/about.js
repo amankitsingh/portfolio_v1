@@ -134,6 +134,7 @@ const About = () => {
     'Flask',
     'Ruby on Rails',
     'MySQL',
+    'DynamoDB',
     'Redis',
     'Shell Scripting',
     'Docker',

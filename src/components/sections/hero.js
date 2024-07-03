@@ -66,7 +66,7 @@ const Hero = () => {
     <>
       <p>
         I'm a developer from India building cool Web, IoT applications and learning iOS app
-        development. With more than 3+ years in web and application developement. Currently, I'm
+        development. With more than 5+ years in web and application developement. Currently, I'm
         focused on chasing innovation.
       </p>
     </>
@@ -76,8 +76,7 @@ const Hero = () => {
       className="email-link"
       href="https://cal.com/ankitsingh/30min"
       target="_blank"
-      rel="noreferrer noopener"
-    >
+      rel="noreferrer noopener">
       Get in Touch
     </a>
   );
