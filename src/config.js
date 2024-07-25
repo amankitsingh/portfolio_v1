@@ -4,15 +4,15 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/amankitsingh',
+      url: 'https://github.com/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/amankitsingh',
+      url: 'https://www.instagram.com/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/amankitsingh',
+      url: 'https://twitter.com/',
     },
     {
       name: 'Linkedin',
