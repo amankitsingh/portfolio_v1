@@ -74,7 +74,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://cal.com/ankitsingh/30min"
+      href="https://calendly.com/speaktoankitsingh/30min"
       target="_blank"
       rel="noreferrer noopener">
       Get in Touch
