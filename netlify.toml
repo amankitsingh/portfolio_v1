@@ -1,0 +1,14 @@
+[build]
+  command = "gatsby build"
+  publish = "public"
+
+[build.environment]
+  NODE_VERSION = "23.11.0"
+
+[[plugins]]
+  package = "@netlify/plugin-gatsby"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200 
