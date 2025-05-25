@@ -22,14 +22,14 @@
     "prepare": "husky",
     "lint-staged": "lint-staged"
   },
-  "lint-staged": {
+  /*"lint-staged": {
     "*.{js,jsx,ts,tsx,css,json,md}": [
       "prettier --write"
     ],
     "*.{js,jsx,ts,tsx}": [
       "eslint --fix"
     ]
-  },
+  },*/
   "dependencies": {
     "animejs": "^3.2.1",
     "babel-plugin-styled-components": "^2.1.4",
