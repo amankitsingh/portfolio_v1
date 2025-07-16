@@ -132,6 +132,7 @@ const About = () => {
     'Node.js',
     'Python',
     'Flask',
+    'FastApi',
     'Ruby on Rails',
     'MySQL',
     'DynamoDB',
@@ -141,6 +142,8 @@ const About = () => {
     'Socket programming',
     'Shell scripting',
     'Sidekiq',
+    'ML',
+    'Computer Vision',
   ];
 
   return (
