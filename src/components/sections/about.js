@@ -144,6 +144,8 @@ const About = () => {
     'Sidekiq',
     'ML',
     'Computer Vision',
+    'Kafka',
+    'TailwindCSS',
   ];
 
   return (
